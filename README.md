@@ -1,0 +1,2 @@
+# nav2_cmd
+nav2でnavigate_through_posesをなげる簡易コード
